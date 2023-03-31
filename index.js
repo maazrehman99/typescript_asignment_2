@@ -71,7 +71,7 @@ let myCar = new Car("Toyota", "Corolla", 2020, true, "Black");
 console.log(myCar.rentalRate());
 console.log(myCar.Rent());
 console.log(myCar.Return());
-let myMotorcycle = new Motorcycle("Honda", "Civic", 2020, false, 1434);
+let myMotorcycle = new Motorcycle("Honda", "150", 2020, false, 1434);
 console.log(myMotorcycle.rentalRate());
 console.log(myMotorcycle.Rent());
 console.log(myMotorcycle.Return());
